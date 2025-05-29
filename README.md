@@ -4,11 +4,13 @@ aprendizaje de Termuz en mi TCL
 maneja apt y pkg como administrador de paquetes
 
 # Applicaciones de Terminal
-zsh
-oh-my-zsh
-lsd no tiene exa
-ranger
-pandoc
-nvim
-neofetch
+lsd no existe exa 
 ncdu
+neofetch
+ranger
+zsh
+
+coreutils qara obtener comm *comqara archivos
+oh-my-zsh
+
+
