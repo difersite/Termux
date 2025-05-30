@@ -1,5 +1,6 @@
 # Termux
 aprendizaje de Termuz en mi TCL
+https://youtu.be/nqPyEN9h87c?si=HBe_53eWBlGe4S2Z
 
 maneja apt y pkg como administrador de paquetes
 
