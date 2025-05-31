@@ -16,4 +16,4 @@ zsh
 coreutils qara obtener comm *comqara archivos
 oh-my-zsh
 
-
+i3: https://youtu.be/Uqf9zk6W7S8?si=2OAqc14sIuGNQmCE
