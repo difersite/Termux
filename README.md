@@ -17,8 +17,9 @@ maneja apt y pkg como administrador de paquetes
 lsd no existe exa  
 ncdu 
 neofetch 
-ranger 
-zsh 
+ranger --> configuración en ~/.config/ranger/rc.conf
+zsh --> configuración en ~/.zshrc
+nvim --> configuración en ~/.config/nvim/init.conf
 tmux 
 
 
